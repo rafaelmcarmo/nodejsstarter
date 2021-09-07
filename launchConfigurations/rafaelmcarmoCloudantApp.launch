@@ -1,0 +1,16 @@
+{
+  "ServiceId": "com.ibm.cloudoe.orion.client.deploy",
+  "Params": {
+    "Target": {
+      "Url": "https://api.us-south.cf.cloud.ibm.com",
+      "Org": "rafaelm.carmo@hotmail.com",
+      "Space": "dev"
+    },
+    "Name": "rafaelmcarmoCloudantApp",
+    "Instrumentation": {
+      "domain": "mybluemix.net"
+    }
+  },
+  "Path": "manifest.yml",
+  "Type": "Cloud Foundry"
+}
