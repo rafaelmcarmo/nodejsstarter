@@ -1,0 +1,7 @@
+---
+applications:
+- name: rafaelmcarmoCloudantApp
+  random-route: true
+  memory: 256M
+  services:
+  - Cloudant-py
